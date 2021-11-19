@@ -1,9 +1,9 @@
-## Snapchat Like App
+# Snapchat Like App
 
 In this project I followed along an online turtorial and made the changes I
 found necessary when debuging the app.
 
-# App short description:
+## App short description:
 
 You can login with google authentication.
 
